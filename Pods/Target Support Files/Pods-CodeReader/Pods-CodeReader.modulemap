@@ -1,0 +1,6 @@
+framework module Pods_CodeReader {
+  umbrella header "Pods-CodeReader-umbrella.h"
+
+  export *
+  module * { export * }
+}

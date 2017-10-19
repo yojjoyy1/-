@@ -1,0 +1,12 @@
+PODS:
+  - VpadnSDK (4.6.7)
+
+DEPENDENCIES:
+  - VpadnSDK (~> 4.6.7)
+
+SPEC CHECKSUMS:
+  VpadnSDK: b3cf8f72c1eafb534928b73dfe3e05d95581a192
+
+PODFILE CHECKSUM: 2ac4abb6ae6cbe9a53715bf7fd60f73c3b44f639
+
+COCOAPODS: 1.4.0.beta.1
